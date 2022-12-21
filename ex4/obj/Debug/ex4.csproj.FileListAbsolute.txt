@@ -1,0 +1,8 @@
+E:\html\ex4\bin\Debug\ex4.exe.config
+E:\html\ex4\bin\Debug\ex4.exe
+E:\html\ex4\bin\Debug\ex4.pdb
+E:\html\ex4\obj\Debug\ex4.csproj.AssemblyReference.cache
+E:\html\ex4\obj\Debug\ex4.csproj.SuggestedBindingRedirects.cache
+E:\html\ex4\obj\Debug\ex4.csproj.CoreCompileInputs.cache
+E:\html\ex4\obj\Debug\ex4.exe
+E:\html\ex4\obj\Debug\ex4.pdb
